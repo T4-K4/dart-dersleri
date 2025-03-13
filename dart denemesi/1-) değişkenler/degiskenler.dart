@@ -81,4 +81,10 @@ void main(List<String> args) {
   } else {
     print('eşit değiller');
   }
+
+
+//sonuç ne olursa olsun tam sayıyı gösterir ~/
+//int tanımı için lazım olur .tolnt() aynı şeydir.
+
+
 }
